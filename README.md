@@ -59,11 +59,11 @@
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| 🌦️ [Weather App](https://github.com/SGarryy/Weather-App) | Python · Pandas · PyQt5 | ✅ Completed |
-| 🛒 [E-commerce Sales Analytics](https://github.com/SGarryy/E-commerce-Sales-Analytics) | Python · Pandas · NumPy <br> · Matplotlib · PyQt5 · Jupyter | 📊 Data Analysis |
-| 🎬 [Netflix Data Analysis](https://github.com/SGarryy/Netflix-Data-Analysis) | Python · Pandas · Matplotlib | 📊 Data Analysis |
-| 🔍 [Customer Churn Prediction](https://github.com/SGarryy/Customer-Churn-Prediction) | Python · Pandas · Scikit-learn <br> · Streamlit Imbalanced-Learn <br> · Random Forest | 🤖 Machine Learning |
-| 🐳 [Dockerized ML](https://github.com/SGarryy/docker-projects) | Docker · Python · TensorFlow | 🚀 Active |
+| 🌦️ [Weather App](https://github.com/SGarryy/Weather-App) | · Python · Pandas · PyQt5 | ✅ Completed |
+| 🛒 [E-commerce Sales Analytics](https://github.com/SGarryy/E-commerce-Sales-Analytics) | · Python · Pandas · NumPy <br> · Matplotlib · PyQt5 · Jupyter | 📊 Data Analysis |
+| 🎬 [Netflix Data Analysis](https://github.com/SGarryy/Netflix-Data-Analysis) | · Python · Pandas · Matplotlib | 📊 Data Analysis |
+| 🔍 [Customer Churn Prediction](https://github.com/SGarryy/Customer-Churn-Prediction) | · Python · Pandas · Scikit-learn <br> · Streamlit Imbalanced-Learn <br> · Random Forest | 🤖 Machine Learning |
+| 🐳 [Dockerized ML](https://github.com/SGarryy/docker-projects) | · Docker · Python · TensorFlow | 🚀 Active |
 
   </td>
   <td width="40%" valign="top">

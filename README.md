@@ -62,7 +62,7 @@
 | 🌦️ [Weather App](https://github.com/SGarryy/Weather-App) | Python · Pandas · PyQt5 | ✅ Completed |
 | 🛒 [E-commerce Sales Analytics](https://github.com/SGarryy/E-commerce-Sales-Analytics) | Python · Pandas · NumPy <br> Matplotlib · PyQt5 · Jupyter | 📊 Data Analysis |
 | 🎬 [Netflix Data Analysis](https://github.com/SGarryy/Netflix-Data-Analysis) | Python · Pandas · Matplotlib | 📊 Data Analysis |
-| 🔍 [Customer Churn Prediction](https://github.com/SGarryy/Customer-Churn-Prediction) | Python · Pandas · Scikit-learn · Streamlit <br> Imbalanced-Learn · Random Forest | Machine Learning |
+| 🔍 [Customer Churn Prediction](https://github.com/SGarryy/Customer-Churn-Prediction) | Python · Pandas · Scikit-learn <br>· Streamlit Imbalanced-Learn · Random Forest <br>| Machine Learning |
 | 🐳 [Dockerized ML](https://github.com/SGarryy/docker-projects) | Docker · Python · TensorFlow | 🚀 Active |
 
   </td>

@@ -73,12 +73,13 @@
 <div style="padding: 15px; background: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
 
 **📜 Certifications**  
-- **Oracle AI Vector Search Professional**
-- **Oracle Cloud Infrastructure 2025 Generative AI Professional**
+- **OCI 2025 Certified DevOps Professional**
+- **OCI 2025 Certified Data Science Professional**
+- **Oracle AI Vector Search Certified Professional**
+- **OCI 2025 Generative AI Professional**
 
 **🎯 Recent Wins**  
-- Weather App Completed  
-- Open Source Contributions  
+- Customer Churn Prediction  
 
 </div>
 

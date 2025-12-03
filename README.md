@@ -24,7 +24,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-mlops&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgarryy&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---

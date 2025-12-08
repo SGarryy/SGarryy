@@ -119,7 +119,7 @@
   <a href="https://www.linkedin.com/in/gauravsingh-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="mailto:gauravsingh.ai@gmail.com">
+  <a href="mailto:singh.gaurav.mlops@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/SGarryy" target="_blank">
